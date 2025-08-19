@@ -1,8 +1,9 @@
 # Hello, I Am **ExN4Z** | Febriyan Arbi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=800080&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
+
 
 
 ---
