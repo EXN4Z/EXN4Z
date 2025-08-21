@@ -18,7 +18,7 @@
 ## 💻 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,php" />
 </p>
 
 ---
