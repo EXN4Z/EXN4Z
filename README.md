@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm ExN4Z / Febriyan</h1>
-<h3 align="center">Web Developer | Laravel • React • Next.js</h3>
+<h3 align="center">Web Developer | React • Next.js</h3>
 
 <p align="center">
   <a href="https://github.com/EXN4Z">
