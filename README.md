@@ -61,7 +61,7 @@
   -  Stack: ReactJS, Tailwind
 
 - **Project 2 — FluxInk-Verse - Website Baca Komik**
-  -  Demo: https://your-demo-link.com
+  -  Demo: https://flux-ink-verse.vercel.app/
   -  Repo: https://github.com/EXN4Z/FluxInk-Verse
   -  Stack: Next.js, Tailwind, Supabase
 
