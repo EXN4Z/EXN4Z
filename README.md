@@ -12,16 +12,6 @@
 
 ---
 
-##  About Me
-- Lagi fokus ngebangun: **Web Apps**
-- Bisa ngobrol soal: **Tailwind, CSS, React, Next.js**
-- Lagi belajar/upgrade: **TypeScript, Testing, Performance Optimization**
-- Kontak: **ajafebri08@gmail.com**
-- Portfolio: **blm punya :v**
-- Fun fact: **Aku suka bikin UI rapi + backend yang scalable**
-
----
-
 ##  Tech Stack
 
 ###  Frontend
