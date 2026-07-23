@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.exnaz.png" alt="ExN4Z Banner" width="100%" />
+  <img src="./banner.exnaz" alt="ExN4Z Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm ExN4Z / Febriyan</h1>
