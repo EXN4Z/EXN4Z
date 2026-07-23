@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="ExN4Z Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm ExN4Z / Febriyan</h1>
 <h3 align="center">Web Developer | React • Next.js</h3>
 
@@ -25,10 +29,11 @@
 
 ###  Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 
 ###  Database & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
 ###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -39,8 +44,9 @@
 
 ##  Highlight Skills
 - **React / Next.js** (SSR/SSG, routing, state management, component-driven UI)
+- **Laravel** (REST API, migrations, auth, backend architecture)
 - **Tailwind + CSS** (responsive, clean layout, reusable component)
-- **Database** (schema design, indexing basic, query optimization)
+- **Database** (PostgreSQL schema design, indexing basic, query optimization)
 - **Deployment** (CI/CD basic, Supabase, Vercel/Shared hosting/VPS)
 
 ---
@@ -62,7 +68,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=EXN4Z&show_icons=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXN4Z&layout=compact&theme=transparent" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EXN4Z&theme=transparent" />
 </p>
