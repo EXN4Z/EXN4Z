@@ -27,10 +27,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
-
-###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
