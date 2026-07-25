@@ -18,21 +18,15 @@
 
 ##  Tech Stack
 
-###  Frontend
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-
-###  Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
-
-###  Database & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
 ###  Tools & DevOps
