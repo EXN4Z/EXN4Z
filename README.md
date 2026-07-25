@@ -31,27 +31,6 @@
 
 ---
 
-##  Highlight Skills
-- **React / Next.js** (SSR/SSG, routing, state management, component-driven UI)
-- **Laravel** (REST API, migrations, auth, backend architecture)
-- **Tailwind + CSS** (responsive, clean layout, reusable component)
-- **Database** (PostgreSQL schema design, indexing basic, query optimization)
-- **Deployment** (CI/CD basic, Supabase, Vercel/Shared hosting/VPS)
-
----
-
-- **Project 1 — Carving - Website UMKM**
-  -  Demo: https://carving-iota.vercel.app/
-  -  Repo: https://github.com/EXN4Z/marble
-  -  Stack: ReactJS, Tailwind
-
-- **Project 2 — FluxInk-Verse - Website Baca Komik**
-  -  Demo: https://flux-ink-verse.vercel.app/
-  -  Repo: https://github.com/EXN4Z/FluxInk-Verse
-  -  Stack: Next.js, Tailwind, Supabase
-
----
-
 ##  GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=EXN4Z&show_icons=true&theme=transparent" />
