@@ -28,14 +28,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-
----
-
-##  GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EXN4Z&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXN4Z&layout=compact&theme=transparent" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EXN4Z&theme=transparent" />
-</p>
